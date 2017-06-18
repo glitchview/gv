@@ -1,0 +1,17 @@
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt

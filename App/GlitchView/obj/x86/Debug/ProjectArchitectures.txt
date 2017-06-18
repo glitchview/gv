@@ -1,0 +1,4 @@
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\talal\Documents\GlitchView\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\talal\Documents\GlitchView\App\GlitchView\GlitchView.csproj;x86

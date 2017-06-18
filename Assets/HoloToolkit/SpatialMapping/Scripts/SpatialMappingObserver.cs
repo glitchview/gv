@@ -423,7 +423,10 @@ namespace HoloToolkit.Unity.SpatialMapping
 
             Debug.Assert(outstandingMeshRequest.Value.Object.activeSelf);
             outstandingMeshRequest.Value.Renderer.enabled = SpatialMappingManager.Instance.DrawVisualMeshes;
-
+            foreach (Mesh mesh in SpatialMappingManager.Instance.GetMeshes())
+            {
+                mesh.RecalculateNormals();
+            }
             SurfaceObject? replacedSurface = UpdateOrAddSurfaceObject(outstandingMeshRequest.Value, destroyGameObjectIfReplaced: false);
             outstandingMeshRequest = null;
 

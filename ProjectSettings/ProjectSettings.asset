@@ -6,7 +6,7 @@ PlayerSettings:
   serializedVersion: 11
   productGUID: 6efec563d97e2f44699456b39486899b
   AndroidProfiler: 0
-  defaultScreenOrientation: 0
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -519,7 +519,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 806c21f35505d401
+  metroCertificateNotAfter: 807d7f89aa05d401
   metroApplicationDescription: GlitchView
   wsaImages: {}
   metroTileShortName: GlitchView
