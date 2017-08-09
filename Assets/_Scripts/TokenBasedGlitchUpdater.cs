@@ -9,12 +9,6 @@ public class TokenBasedGlitchUpdater : MonoBehaviour {
     float elapsed = 0f;
 
     public GameObject glitcherObject;
-  /*
-   * void Start () {
-
-
-    }
-    */
 
     void Update()
     {

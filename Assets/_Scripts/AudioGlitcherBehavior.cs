@@ -7,11 +7,15 @@ public class AudioGlitcherBehavior : MonoBehaviour
     public Glitcher Glitcher = null;
 
     private bool isPlaying = false;
+
+    private AudioSource audioSource;
     // Use this for initialization
     void Start()
     {
-        GetComponent<AudioSource>().loop = true;
-        GetComponent<AudioSource>().spatialize = true;
+        audioSource = GetComponent<AudioSource>();
+        audioSource.loop = true;
+        audioSource.spatialize = true;
+        
     }
 
     // Update is called once per frame
@@ -23,7 +27,7 @@ public class AudioGlitcherBehavior : MonoBehaviour
 
             if (isPlaying != Glitcher.EnableGlitch)
             {
-                GetComponent<AudioSource>().Play();
+                audioSource.Play();
                 isPlaying = true;
             }
         }
@@ -31,7 +35,7 @@ public class AudioGlitcherBehavior : MonoBehaviour
         {
             if (enabled)
             {
-                GetComponent<AudioSource>().Stop();
+                audioSource.Stop();
                 isPlaying = false;
             }
         }

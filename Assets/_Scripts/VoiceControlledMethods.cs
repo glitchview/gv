@@ -48,10 +48,6 @@ public class VoiceControlledMethods : MonoBehaviour {
         introUI[2].gameObject.SetActive(true);
 
         PhotoCapture.CreateAsync(false, OnPhotoCaptureReturned);
-        //bring in "detecting" ui
-        //wait for return
-        //ui for face detected or not
-        //change state to be at face detection
     }
 
     private void OnPhotoCaptureReturned(PhotoCapture captureObjected)
@@ -231,7 +227,7 @@ public class VoiceControlledMethods : MonoBehaviour {
        
     }
 
-    #region Testmethods
+#region earlymethods
     //private void ApplyImageToQuad(string filePath)
     //{
     //    byte[] image = File.ReadAllBytes(filePath);

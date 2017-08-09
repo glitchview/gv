@@ -9,7 +9,7 @@ GlitchView.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GlitchView\App.cs: 0AC281E9E6FE60ADB3546158D66EC46D
-GlitchView\GlitchView.csproj: 395C1CED7D1C672BC6A6381D2355FD87
+GlitchView\GlitchView.csproj: E0C2A0F396443675BAEB0DB6624C0FE6
 GlitchView\GlitchView.csproj.user: modified
 GlitchView\Package.appxmanifest: BB7B1879570B104A9A07E6DA85378135
 GlitchView\project.json: 1D02BC64BAC0D041019673A1C4C51737
@@ -26,5 +26,12 @@ GlitchView\bin\x86\Debug\AppX\Assets\Square44x44Logo.targetsize-24_altform-unpla
 GlitchView\bin\x86\Debug\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 GlitchView\bin\x86\Debug\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
 GlitchView\bin\x86\Debug\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
+GlitchView\bin\x86\Release\AppX\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
+GlitchView\bin\x86\Release\AppX\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
+GlitchView\bin\x86\Release\AppX\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
+GlitchView\bin\x86\Release\AppX\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
+GlitchView\bin\x86\Release\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
+GlitchView\bin\x86\Release\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
+GlitchView\bin\x86\Release\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
 GlitchView\Properties\AssemblyInfo.cs: DC4F1A0657E6F2C4476BCC17F9FD637F
 GlitchView\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826

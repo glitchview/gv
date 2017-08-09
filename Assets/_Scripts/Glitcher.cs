@@ -12,15 +12,16 @@ public class Glitcher : MonoBehaviour
     public float BloatMeshAmount = 0.2f;
     public Texture2D GlitchTexture;
 
-    // Use this for initialization
+    HoloToolkit.Unity.SpatialMapping.SpatialMappingManager spatMan;
+
     void Start()
     {
+        spatMan = GetComponent<HoloToolkit.Unity.SpatialMapping.SpatialMappingManager>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        HoloToolkit.Unity.SpatialMapping.SpatialMappingManager spatMan = this.GetComponent<HoloToolkit.Unity.SpatialMapping.SpatialMappingManager>();
         if (EnableGlitch)
         {
             spatMan.SurfaceMaterial.SetTexture("_MainTex", GlitchTexture);

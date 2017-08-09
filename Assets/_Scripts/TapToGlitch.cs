@@ -48,11 +48,6 @@ public class TapToGlitch : MonoBehaviour
         UpdatePositionToCapturePoint();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-    }
-
     void UpdatePositionToCapturePoint()
     {
         this.transform.SetPositionAndRotation(TargetCamera.transform.position, TargetCamera.transform.rotation);
