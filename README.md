@@ -15,13 +15,13 @@ This command augments user's view of other persons by detecting a person's emoti
 
 <img src="RMresources/happy_krys.gif" width="400">
 <i>Happy Krzy is radient.</i>
-
+<br>
 <img src="RMresources/sad_krys.gif" width="400">
 <i>Sad Krzy is blue...</i>
-
+<br>
 <img src="RMresources/angry_krys.gif" width="400">
 <i>Angry Krzy goes wroar!</i>
-
+<br>
 
 ### "Remove Effects"
 This commands is used to remove any xR effects that were already applied. It returns you to the normal state.
