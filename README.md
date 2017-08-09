@@ -8,7 +8,6 @@ We use audio commands as our main mode of interface. Bellow are the three voice 
 This command causes other persons in the vicinity of the user to be blocked out from head to toe. We use a camouflage/static like texture to remove the user. We also distort the audio coming from the blocked user's direction with disruptive white noise.
 
 <img src="RMresources/block_krys.gif" width="600">
-<br>
 *Krzy keeps distrupting our conversation by talking on the phone. He deserves to be blocked.*
 
 ### "How's It Going?"
@@ -16,12 +15,10 @@ This command augments user's view of other persons by detecting a person's emoti
 
 <img src="RMresources/happy_krys.gif" width="400">
 *Happy Krzy is radient.*
-<br>
-<br>
+
 <img src="RMresources/sad_krys.gif" width="400">
 *Sad Krzy is blue...*
-<br>
-<br>
+
 <img src="RMresources/angry_krys.gif" width="400">
 *Angry Krzy goes wroar!*
 
@@ -32,5 +29,4 @@ This commands is used to remove any xR effects that were already applied. It ret
 ## Team
 
 <img src="RMresources/team_pic.jpg" width="400">
-<br>
 *Lauren Chun (Art), Chris Oats (Shaders), Talal Alothman (Programming), Krzysztof Barczynski (Programing)*
