@@ -17,17 +17,14 @@ This command causes other persons in the vicinity of the user to be blocked out 
 This command augments user's view of other persons by detecting a person's emotion and attaching an animated emoji that describes that emotion above their head. We currently support three main emotions. Happiness, Sadness, and Anger. There is an artifact of a dark background that appears only in the video capture. It does not appear when using the application.
 <center>
 <img src="RMresources/happy_krys.gif" width="400">
-<br>
 *Happy Krzy is radient.*
 <br>
 <br>
 <img src="RMresources/sad_krys.gif" width="400">
-<br>
 *Sad Krzy is blue...*
 <br>
 <br>
 <img src="RMresources/angry_krys.gif" width="400">
-<br>
 *Angry Krzy goes wroar!*
 </center>
 
