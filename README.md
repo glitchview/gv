@@ -9,10 +9,12 @@ This command causes other persons in the vicinity of the user to be blocked out 
 
 <img src="RMresources/block_krys.gif" width="600">
 <i>Krzy keeps distrupting our conversation by talking on the phone. He deserves to be blocked.</i>
-<br>
+<br/>
+
 <img src="RMresources/block_talal.gif" width="600">
 <i>Talal stands idly wasting everyone's time. He deserves to be blocked.</i>
-<br>
+<br/>
+
 <img src="RMresources/block_mischel.gif" width="600">
 <i>Mischel requests a favor and is denied. He deserves to be blocked.</i>
 
@@ -21,10 +23,12 @@ This command augments user's view of other persons by detecting a person's emoti
 
 <img src="RMresources/happy_krys.gif" width="400">
 <i>Happy Krzy is radient.</i>
-<br>
+<br/>
+
 <img src="RMresources/sad_krys.gif" width="400">
 <i>Sad Krzy is blue...</i>
-<br>
+<br/>
+
 <img src="RMresources/angry_krys.gif" width="400">
 <i>Angry Krzy goes wroar!</i>
 
@@ -34,4 +38,4 @@ This commands is used to remove any xR effects that were already applied. It ret
 ## Team
 
 <img src="RMresources/team_pic.jpg" width="400">
-<i>Lauren Chun (Art), Chris Oats (Shaders), Talal Alothman (Programming), Krzysztof Barczynski (Programing)</i>
+<i>Lauren Chun (Art/Animation), Chris Oats (Shaders/Programming), Talal Alothman (UI/Programming), Krzysztof Barczynski (Cloud/Programing)</i>
