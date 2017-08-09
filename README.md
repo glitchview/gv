@@ -9,10 +9,10 @@ This command causes other persons in the vicinity of the user to be blocked out 
 
 <img src="RMresources/block_krys.gif" width="600">
 <i>Krzy keeps distrupting our conversation by talking on the phone. He deserves to be blocked.</i>
-
+<br>
 <img src="RMresources/block_talal.gif" width="600">
 <i>Talal stands idly wasting everyone's time. He deserves to be blocked.</i>
-
+<br>
 <img src="RMresources/block_mischel.gif" width="600">
 <i>Mischel requests a favor and is denied. He deserves to be blocked.</i>
 
@@ -21,8 +21,10 @@ This command augments user's view of other persons by detecting a person's emoti
 
 <img src="RMresources/happy_krys.gif" width="400">
 <i>Happy Krzy is radient.</i>
+<br>
 <img src="RMresources/sad_krys.gif" width="400">
 <i>Sad Krzy is blue...</i>
+<br>
 <img src="RMresources/angry_krys.gif" width="400">
 <i>Angry Krzy goes wroar!</i>
 
