@@ -35,7 +35,7 @@ This command augments user's view of other persons by detecting a person's emoti
 ### "Remove Effects"
 This commands is used to remove any xR effects that were already applied. It returns you to the normal state.
 
-<img src="RMresources/remove_mishel.gif" width="600">
+<img src="RMresources/remove_mishel.gif" width="800">
 <i>Mishel stops asking for favors. Mishel is unblocked.</i>
 
 ## Team
