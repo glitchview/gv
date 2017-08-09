@@ -42,4 +42,5 @@ This command is used to remove any xR effects that were already applied. It retu
 Our team met at the HoloLens hackathon and built this in two days.
 
 <img src="RMresources/team_pic.jpg" width="400">
-<i>[Lauren Chun](https://www.linkedin.com/in/lauren-chun-1b786a128/) (Art/Animation), [Chris Oats](https://www.linkedin.com/in/chris-oates-45065837/) (Shaders/Programming), [Talal Alothman](https://www.linkedin.com/in/talalalothman/) (UI/Programming), [Krzysztof Barczynski](https://www.linkedin.com/in/krzysztofbarczynski/) (Cloud/Programing)</i>
+
+[Lauren Chun](https://www.linkedin.com/in/lauren-chun-1b786a128/) (Art/Animation), [Chris Oats](https://www.linkedin.com/in/chris-oates-45065837/) (Shaders/Programming), [Talal Alothman](https://www.linkedin.com/in/talalalothman/) (UI/Programming), [Krzysztof Barczynski](https://www.linkedin.com/in/krzysztofbarczynski/) (Cloud/Programing)
