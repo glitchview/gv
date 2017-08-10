@@ -1,6 +1,6 @@
 # GlitchView
 
-**GlitchView** is a Diminished Reality (DR)/Mixed Reality(MR) HoloLens application that changes how we socially interact. Inspired by a dystopian application of future [Extended Reality(xR)](https://en.wikipedia.org/wiki/Extended_reality) tools found in Black Mirror's White Christmas [episode](https://www.youtube.com/watch?v=AOHy4Ca9bkw), we built a tool that allows you to block those you no longer want to see or listen to. Considering how well people take to dystopian futures, we also implemented an interface that augments users with animated emojis descriptive of a user's emotional state.
+**GlitchView** is a Diminished Reality (DR)/Mixed Reality (MR) HoloLens application that changes how we socially interact. Inspired by a dystopian application of future [Extended Reality (xR)](https://en.wikipedia.org/wiki/Extended_reality) tools found in Black Mirror's White Christmas [episode](https://youtu.be/AOHy4Ca9bkw?t=20s), we built a tool that allows you to block those you no longer want to see or listen to. Considering how well people take to dystopian futures, we also implemented an interface that augments users with animated emojis descriptive of a user's emotional state.
 
 ## Features
 We use audio commands as our main mode of interface. Bellow are the three voice commands. We also utilize a gaze cursor to visualize the user's center of gaze.
@@ -39,7 +39,7 @@ This command is used to remove any xR effects that were already applied. It retu
 <i>Mishel stops asking for favors. Mishel deserves to be unblocked.</i>
 
 ## Team
-Our team met at the HoloLens hackathon and built this in two days.
+Our team met at the [HoloLens hackathon](https://www.meetup.com/SiliconValleyVirtualReality/events/240253544/) and built this in two days.
 
 <img src="RMresources/team_pic.jpg" width="400">
 
